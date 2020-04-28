@@ -7,7 +7,7 @@
 Before you start, set up an environment in which to run the Jupyter notebook `Convolutional.ipynb`:
 
 ```
-$ conda create -n tf python==3.7 tensorflow jupyter matplotlib tqdm nomkl
+$ conda create -n tf python=3.7 tensorflow jupyter matplotlib tqdm nomkl
 $ conda activate tf
 $ conda install -c conda-forge jupyterthemes
 ```
